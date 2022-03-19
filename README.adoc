@@ -1,0 +1,23 @@
+= Stellaris Mod「[Fix Patch]F17 VOICEROID Portraits」
+:author: ERRORJP
+:toc: left
+:toc-title: 目次
+:sectnums:
+
+== これはなに？
+F17 VOICEROID PortraitsとVOICEROID Portraitsを同時運用するための互換パッチです。 +
+ポートレート定義のみしか変更していないため、ネームリスト等は重複します。
+
+具体的には、F17 VOICEROID Portraits側のゆかりさん、ずんこさん、きりたんのポートレートの定義名を変更しています。 +
+なお、本MODを当てる以前のF17 VOICEROID Portraitsを利用して過去に作った自作帝国や +
+セーブデータとは互換性がなくなる可能性がありますのでご了承ください。
+
+== 使い方
+. Steam版のStellarisをご利用の方は、以下からサブスクライブしてください。 +
+https://steamcommunity.com/sharedfiles/filedetails/?id=2760247086
+
+. 以下の順序になるように、ロード順を入れ替えて利用するようにしてください。
+.. F17 VOICEROID Portraits
+.. [Fix Patch]F17 VOICEROID Portraits
+.. VOICEROID Portraits
+.. [Compatibility Patch]F17 VP/VP ※このMODです
